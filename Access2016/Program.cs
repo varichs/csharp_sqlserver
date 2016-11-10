@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SQLserver2016
+namespace Access2016
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace SQLserver2016
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Mainfrm());
+            Application.Run(new MainFrm());
         }
     }
 }

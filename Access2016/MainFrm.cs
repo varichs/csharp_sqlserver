@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SQLserver2016
+namespace Access2016
 {
-    public partial class Form1 : Form
+    public partial class MainFrm : Form
     {
-        public Form1()
+        public MainFrm()
         {
             InitializeComponent();
         }
