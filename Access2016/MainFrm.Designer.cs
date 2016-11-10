@@ -48,7 +48,7 @@
             this.btnData.Name = "btnData";
             this.btnData.Size = new System.Drawing.Size(439, 46);
             this.btnData.TabIndex = 1;
-            this.btnData.Text = "button1";
+            this.btnData.Text = "获取数据";
             this.btnData.UseVisualStyleBackColor = true;
             // 
             // MainFrm
