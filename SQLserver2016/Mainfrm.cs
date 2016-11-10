@@ -17,7 +17,11 @@ namespace SQLserver2016
         {
             InitializeComponent();
         }
-
+        /// <summary>
+        /// 电机按钮获取SQL中的数据
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnData_Click(object sender, EventArgs e)
         {
             string con, sql;
